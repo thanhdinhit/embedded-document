@@ -1,4 +1,4 @@
-DinhNguyen
+Document collection by Dinh Nguyen 
 ## Soft Skills
 - Market research
 - Project Estimation

@@ -1,4 +1,4 @@
-DinhNguyen
+Document collection by Dinh Nguyen 
 # Real World Projects
 - [ ] [Blinking an LED using R-Pi demo](https://www.hackster.io/)
 - [ ] Sending Temp/Humidity sensors data onto AWS Cloud using R-Pi

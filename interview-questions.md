@@ -1,4 +1,4 @@
-DinhNguyen
+Document collection by Dinh Nguyen 
 ## C 
 - [What is difference between Structure and Union ?](https://www.quora.com/What-is-the-difference-between-structure-and-union)
 - [What is bit field in C ? What is the benefit of using it ?](https://www.quora.com/C-programming-language-What-is-bit-field)

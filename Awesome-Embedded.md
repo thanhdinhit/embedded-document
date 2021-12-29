@@ -1,5 +1,5 @@
+Document collection by Dinh Nguyen 
 # Awesome-Embedded
-DinhNguyen
 A curated list of awesome embedded resource.
 
 Table of content

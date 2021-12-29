@@ -1,4 +1,4 @@
-DinhNguyen
+Document collection by Dinh Nguyen 
 ## Microcontroller
 - [Arduino](https://www.arduino.cc/)
 - [Texas TM4C123 Launch Pad](http://www.ti.com/tool/EK-TM4C123GXL)
